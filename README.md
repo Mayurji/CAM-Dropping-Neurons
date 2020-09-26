@@ -2,7 +2,7 @@
 When top neurons of trained neural network of a specific class is dropped gradually, the trained model loses it ability to classify the label correctly.
 Interestingly, the model starts focusing on other regions of an Image with probability getting distributed among other classes.
 
-# Note:
+# Note
 Top Neuron refers to neurons with large coefficient value.
 
 # References
