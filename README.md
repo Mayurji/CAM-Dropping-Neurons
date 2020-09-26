@@ -6,6 +6,6 @@ Interestingly, the model starts focusing on other regions of an Image with proba
 Top Neuron refers to neurons with large coefficient value.
 
 # References
-* [Class Map Activation](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+* [Class Activation Map](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
 * [Role of Individual Units in Deep Neural Networks](https://arxiv.org/abs/2009.05041)
 * [Annotated Paper - Role of Individual Units in Deep Neural Networks](https://github.com/Mayurji/Deep-Learning-Papers/tree/master/Investigate%20DNN)
