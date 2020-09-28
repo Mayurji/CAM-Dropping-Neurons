@@ -3,7 +3,7 @@ When top neurons of trained neural network of a specific class is dropped gradua
 Interestingly, the model starts focusing on other regions of an Image with probability getting distributed among other classes.
 
 # Note
-Top Neuron refers to neurons with large coefficient value.
+Top Most Neuron refers to neurons with large weight value and Bottom Most Neuron refers to weights with least value.
 
 # References
 * [Class Activation Map](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
