@@ -3,7 +3,7 @@ When top neurons of trained neural network of a specific class is dropped gradua
 Interestingly, the model starts focusing on other regions of an Image with probability getting distributed among other classes.
 
 # **Effects Of Units When Dropped**
-[Units Dropped]('animation.gif')
+![Units Dropped]('animation.gif')
 
 # **Note**
 Top Most Neuron refers to neurons with large weight value and Bottom Most Neuron refers to weights with least value.
