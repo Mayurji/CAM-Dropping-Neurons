@@ -2,6 +2,9 @@
 When top neurons of trained neural network of a specific class is dropped gradually, the trained model loses it ability to classify the label correctly.
 Interestingly, the model starts focusing on other regions of an Image with probability getting distributed among other classes.
 
+# **How to run Ipywidget**
+[![Watch the video](DNN_Units_Dropped.mkv)]
+
 # **Effects Of Units When Dropped**
 ![Units Dropped](animation.gif)
 
