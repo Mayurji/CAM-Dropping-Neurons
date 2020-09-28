@@ -33,7 +33,7 @@ pip install -r requirements.txt
 # **Note**
 Top Most Neuron refers to neurons with large weight value and Bottom Most Neuron refers to weights with least value.
 
-# **Prerequisite**
+# **Packages**
 
 * ipywidgets==7.5.1
 * opencv_python==4.2.0.34
