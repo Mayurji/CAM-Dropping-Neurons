@@ -1,3 +1,7 @@
+
+# **Effects Of Units When Dropped**
+![Units Dropped](Media/animation.gif)
+
 # **Units-In-Deep-Neural-Networks**
 When top neurons of trained neural network of a specific class is dropped gradually, the trained model loses it ability to classify the label correctly.
 Interestingly, the model starts focusing on other regions of an Image with probability getting distributed among other classes.
@@ -26,12 +30,8 @@ pip install -r requirements.txt
 # **How to run IPywidget**
 ![Watch the video](Media/DNN_Units_Dropped.mkv)
 
-# **Effects Of Units When Dropped**
-![Units Dropped](Media/animation.gif)
-
 # **Note**
 Top Most Neuron refers to neurons with large weight value and Bottom Most Neuron refers to weights with least value.
-
 
 # **Prerequisite**
 
