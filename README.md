@@ -13,6 +13,11 @@ Interestingly, the model starts focusing on other regions of an Image with proba
 * ipython==7.18.1
 * Pillow==7.2.0
 
+# **Installation**
+```python
+pip install -r requirements.txt
+```
+
 # **How to run IPywidget**
 ![Watch the video](Media/DNN_Units_Dropped.mkv)
 
