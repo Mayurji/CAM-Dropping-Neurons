@@ -2,7 +2,8 @@
 When top neurons of trained neural network of a specific class is dropped gradually, the trained model loses it ability to classify the label correctly.
 Interestingly, the model starts focusing on other regions of an Image with probability getting distributed among other classes.
 
-    **For intutitive understanding, Consider you have strong memories of particular events in your life like going to college or the time you met with an 
+## **Intutitive Understanding**
+    **Consider you have strong memories of particular events in your life like going to college or the time you met with an 
     accident and it is stored as neuron among  billions of neurons in your brain and now you vaguely remember those events because your neurons have vanished                      
     slowly as the years have passed.**
 
