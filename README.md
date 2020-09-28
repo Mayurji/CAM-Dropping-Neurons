@@ -12,11 +12,11 @@ Interestingly, the model starts focusing on other regions of an Image with proba
 
 # **Key Insights**
 
-1. #FewPowerfulUnits are enough for the Model to predict the class.
-2. #ClassActivationMap highlights the focus of units in an image, as the units are dropped.
-3. #Probability reduces for the Ground Truth label when few powerful units are dropped.
-4. #Probability gets shared across best alike other labels when units are dropped.
-5. #ObviousResult, Predicted Label changes as units are dropped.
+1. Few Powerful Units are enough for the Model to predict the class.
+2. Class Activation Map highlights the focus of units in an image, as the units are dropped.
+3. Probability reduces for the Ground Truth label when few powerful units are dropped.
+4. Probability gets shared across best alike other labels when units are dropped.
+5. Obvious result, Predicted Label changes as units are dropped.
 
 # **Installation**
 ```python
