@@ -2,6 +2,17 @@
 When top neurons of trained neural network of a specific class is dropped gradually, the trained model loses it ability to classify the label correctly.
 Interestingly, the model starts focusing on other regions of an Image with probability getting distributed among other classes.
 
+# **Prerequisite**
+
+* ipywidgets==7.5.1
+* opencv_python==4.2.0.34
+* numpy==1.19.1
+* torchvision==0.7.0
+* matplotlib==3.3.1
+* torch==1.6.0
+* ipython==7.18.1
+* Pillow==7.2.0
+
 # **How to run IPywidget**
 ![Watch the video](DNN_Units_Dropped.mkv)
 
