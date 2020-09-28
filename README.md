@@ -10,6 +10,13 @@ Interestingly, the model starts focusing on other regions of an Image with proba
     Similarly now compare those with neurons of your model which has learnt to identify a scene but as i drop some of those neurons, it starts loses ability to    
     understand its role and vaguely predicts with available neurons. Interest Concepts, Don't you think?
 
+# **Key Insights**
+
+1. #FewPowerfulUnits are enough for the Model to predict the class.
+2. #ClassActivationMap highlights the focus of units in an image, as the units are dropped.
+3. #Probability reduces for the Ground Truth label when few powerful units are dropped.
+4. #Probability gets shared across best alike other labels when units are dropped.
+5. #ObviousResult, Predicted Label changes as units are dropped.
 
 # **Installation**
 ```python
